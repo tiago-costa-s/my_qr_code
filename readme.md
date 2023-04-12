@@ -19,4 +19,7 @@ Esse código se refere a um gerador de código QR que recebe uma entrada de text
 ![](https://i.postimg.cc/135BsbW8/tela-2.jpg)
 
 
-![](https://i.postimg.cc/y8QPdn5v/tela-3.jpg)) 
+![](https://i.postimg.cc/y8QPdn5v/tela-3.jpg)
+
+
+![](https://i.postimg.cc/mDpGBhFt/my-qr-code-gif.gif)
