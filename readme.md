@@ -1,6 +1,9 @@
 # my Qr Code
 
 ## Gerador de QR Code
+
+link do projeto: https://myqrcode-js.netlify.app/
+
 ![](https://i.postimg.cc/TYcQ8Tc8/tela1.jpg)
 
 
