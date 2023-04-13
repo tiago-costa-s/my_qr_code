@@ -8,9 +8,11 @@ Esse código se refere a um gerador de código QR que recebe uma entrada de text
 
 ### Tecnologias utilizadas
 
-*Java Script
-*HTML 5
-*CSS 3 (Flex Box)
+Java Script
+
+HTML 5
+
+CSS 3 (Flex Box)
 
 ![](https://i.postimg.cc/TYcQ8Tc8/tela1.jpg)
 
