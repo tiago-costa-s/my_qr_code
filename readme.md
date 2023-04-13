@@ -1,6 +1,4 @@
-# my Qr Code
-
-## Gerador de QR Code
+## My Qr Code Gerador de QR Code
 
 link do projeto: https://myqrcode-js.netlify.app/
 
